@@ -24,7 +24,7 @@ MarkupSafe==1.0
 MechanicalSoup==0.6.0
 multidict==2.1.4
 ovh==0.4.7
-protobuf==3.1.0.post1
+protobuf==3.15.0
 pyasn1==0.1.9
 pycrypto==2.6.1
 pycups==1.9.73
